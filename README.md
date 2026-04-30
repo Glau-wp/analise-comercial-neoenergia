@@ -40,7 +40,7 @@ Este projeto faz parte do meu portfólio de aprendizado **"do básico ao profiss
 Este é o **Bloco 1** do meu plano de estudo estratégico focado na vaga de **Analista Júnior da Neoenergia**. Os próximos passos incluem:
 
 - [x] **Bloco 1:** Fundamentos de Python e Lógica Comercial (Concluído)
-- [ ] **Bloco 2 (SQL):** Aprender a conectar este modelo a bancos de dados reais e extrair informações via queries (Consultas).
+- [x] **Bloco 2 (SQL):** Aprender a conectar este modelo a bancos de dados reais e extrair informações via queries (Consultas).
 - [ ] **Bloco 3 (Power BI):** Criar um dashboard interativo para monitoramento em tempo real dos KPIs gerados.
 
 ---
